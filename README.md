@@ -4,7 +4,7 @@
 
 
 # Description
-* Interior edit of the fleeca paints. Just a little modernized instead the old panels and such. Will continue to add props and find better textures ect.. so keep an eye out for updtaes
+* Interior edit of the fleeca banks. Just a little modernized instead the old panels and such. Will continue to add props and find better textures ect.. so keep an eye out for updtaes
 
 
 # Dependencies
